@@ -1,0 +1,11 @@
+Hola. Te adjunto un archivo llamado AI-Level-Creator.zip. Es el código fuente de un mod de Geode para Geometry Dash (versión 2.2074).
+
+Necesito que hagas esto por mí:
+1. Descomprime el zip.
+2. Entra a GitHub con mi sesión ya iniciada (no me pidas mi contraseña, yo inicio sesión) y crea un repositorio nuevo llamado ai-level-creator.
+3. Sube todos los archivos del zip, respetando la carpeta oculta .github/workflows/ con el archivo build.yml.
+4. Ve a la pestaña Actions, ejecuta el workflow "Build Mod" y espera a que termine.
+5. Descarga el resultado y extrae el archivo que termina en .geode.
+6. Guárdalo en mi teléfono y dime dónde quedó. Tengo Geometry Dash en [Android / Windows] con Geode instalado.
+
+Antes de instalar o aceptar cualquier permiso, avísame y pregúntame. Si algo falla, explícame qué error salió.
